@@ -3,9 +3,13 @@
 ## 🌟 Overview
 Welcome to the Expense Tracker Web Service! This app is built with a sleek React frontend and a powerful Spring Boot backend, allowing users to effortlessly manage their expenses and budgets.
 
+ ![Screenshot (5)](https://github.com/user-attachments/assets/853f5b59-00f0-4410-9e11-786b239934b8) ![Screenshot (3)](https://github.com/user-attachments/assets/14b3610e-a5af-4f82-86dd-01b9800038c2)   ![Screenshot (4)](https://github.com/user-attachments/assets/7f8eeba5-82cf-4e2d-a3d8-b90f70bc0458)
+
 ## 🚀 Features
 - **User-friendly interface** for adding and tracking expenses. ✍️
+
 - **Monthly budget management** for better financial planning. ✅
+   
 - **Responsive design** for a seamless experience on any device. 📱💻
 
 ## 🔮 Upcoming Features
